@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acai", "Acai\Acai.csproj", "{4CF4850E-7678-4007-8613-9D5B0591FD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{30169846-7ADE-4E06-BFC5-7C5988A4B498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "CONEXAO\DAO.csproj", "{DA983381-A5B3-42A3-B14E-8BE38B9B4AD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF4850E-7678-4007-8613-9D5B0591FD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF4850E-7678-4007-8613-9D5B0591FD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF4850E-7678-4007-8613-9D5B0591FD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF4850E-7678-4007-8613-9D5B0591FD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30169846-7ADE-4E06-BFC5-7C5988A4B498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30169846-7ADE-4E06-BFC5-7C5988A4B498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30169846-7ADE-4E06-BFC5-7C5988A4B498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30169846-7ADE-4E06-BFC5-7C5988A4B498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA983381-A5B3-42A3-B14E-8BE38B9B4AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA983381-A5B3-42A3-B14E-8BE38B9B4AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA983381-A5B3-42A3-B14E-8BE38B9B4AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA983381-A5B3-42A3-B14E-8BE38B9B4AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

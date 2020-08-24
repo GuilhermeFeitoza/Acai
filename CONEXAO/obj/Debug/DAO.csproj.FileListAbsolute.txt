@@ -1,0 +1,31 @@
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.dll
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.pdb
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.dll
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.pdb
+Z:\22-08-2019\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.dll
+Z:\22-08-2019\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.pdb
+Z:\22-08-2019\Acai\Acai\CONEXAO\obj\Debug\DAO.csprojAssemblyReference.cache
+Z:\22-08-2019\Acai\Acai\CONEXAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+Z:\22-08-2019\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.dll
+Z:\22-08-2019\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.pdb
+C:\Users\Feitoza\Desktop\22-08-2019\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.dll
+C:\Users\Feitoza\Desktop\22-08-2019\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.pdb
+C:\Users\Feitoza\Desktop\22-08-2019\Acai\Acai\CONEXAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Feitoza\Desktop\22-08-2019\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.dll
+C:\Users\Feitoza\Desktop\22-08-2019\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.pdb
+C:\Users\Feitoza\Desktop\23-08-2019\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.dll
+C:\Users\Feitoza\Desktop\23-08-2019\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.pdb
+C:\Users\Feitoza\Desktop\23-08-2019\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.dll
+C:\Users\Feitoza\Desktop\23-08-2019\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.pdb
+Z:\27-08-2019\Desktop Acai\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.dll
+Z:\27-08-2019\Desktop Acai\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.pdb
+Z:\27-08-2019\Desktop Acai\Acai\Acai\CONEXAO\obj\Debug\DAO.csprojAssemblyReference.cache
+Z:\27-08-2019\Desktop Acai\Acai\Acai\CONEXAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+Z:\27-08-2019\Desktop Acai\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.dll
+Z:\27-08-2019\Desktop Acai\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.pdb
+C:\PROJETOS\Projetos Programação\PROJETO ACAI\Desktop Acai\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.dll
+C:\PROJETOS\Projetos Programação\PROJETO ACAI\Desktop Acai\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.pdb
+C:\PROJETOS\Projetos Programação\PROJETO ACAI\Desktop Acai\Acai\Acai\CONEXAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\PROJETOS\Projetos Programação\PROJETO ACAI\Desktop Acai\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.dll
+C:\PROJETOS\Projetos Programação\PROJETO ACAI\Desktop Acai\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.pdb

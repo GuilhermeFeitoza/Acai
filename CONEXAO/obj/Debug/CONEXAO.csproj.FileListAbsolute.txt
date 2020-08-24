@@ -1,0 +1,5 @@
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.dll
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\bin\Debug\CONEXAO.pdb
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.csprojResolveAssemblyReference.cache
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.dll
+C:\Users\Feitoza\Desktop\PROJETOS\Projetos Programação\Acai\Acai\CONEXAO\obj\Debug\CONEXAO.pdb
